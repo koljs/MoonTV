@@ -75,7 +75,7 @@
     },
      "hwba": {
         "api": "https://cjhwba.com/api.php/provide/vod",
-        "name": "华为吧资源",
+        "name": "华为吧资源"
     },
     "baidu": {
         "api": "https://api.apibdzy.com/api.php/provide/vod",
@@ -83,7 +83,7 @@
     },
     "xiaomaomi": {
          "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
-         "name": "小猫咪资源",
+         "name": "小猫咪资源"
      },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
